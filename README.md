@@ -44,7 +44,7 @@
 
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
 
 
@@ -56,7 +56,7 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/yjy01290129/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="https://instagram.com/leejieuns2">
+    <a href="https://instagram.com/yjy01290129">
         <img 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/yjy01290129/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
