@@ -1,7 +1,8 @@
 ## 👋🏻 Hi there  
 
 - 👩🏻‍💼   Department of CS (Computer Science)
-- 💻   Usually using Java language for programmming
+- 🙋   Front-end Engineer
+- 💻   Usually using Javascript,Typescript languages for programmming
 - 👩🏻‍🏫   Learn constantly and think creatively.
 
 <br>
